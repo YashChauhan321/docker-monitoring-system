@@ -79,7 +79,7 @@ docker-monitoring-system
 
 ### 1 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/docker-monitoring-system.git
+git clone https://github.com/YashChauhan321/docker-monitoring-system
 
 cd docker-monitoring-system
 
